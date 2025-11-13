@@ -1,0 +1,42 @@
+# Build directories
+/build/
+/CMakeFiles/
+
+# CMake-generated files
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CMakeFiles/
+CTestTestfile.cmake
+CMakeScripts/
+
+# Executables and binaries
+*.exe
+*.out
+*.obj
+*.o
+*.a
+*.so
+*.dll
+*.dylib
+market_maker
+
+# Logs, temp, misc
+*.log
+*.tmp
+*.swp
+*.swo
+
+# IDE / editor files
+.vscode/
+.idea/
+*.user
+*.workspace
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Optional data folder (uncomment if your CSV data is large)
+# /data/
+TODO.md
